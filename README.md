@@ -1,16 +1,19 @@
-## Hi there 👋
+I help startups transform ideas into scalable, production-ready digital products. I’ve specialized in building engineering teams from scratch, architecting robust systems, and deploying cutting-edge AI solutions.
 
-<!--
-**Bartmr/bartmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Expertise:
 
-Here are some ideas to get you started:
+- **AI & Innovation**: Building LLM-powered applications, fine-tuning, and vector search since early 2022 (before the ChatGPT boom).
+- **Leadership**: Scaling technical teams, coaching individuals from non-traditional backgrounds into full-stack developers, and consulting future co-founders on their ideas and plans.
+- **Startup Growth**: Acted as a Founding Engineer for multiple successful startups, driving products from MVP to scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [8Land](https://github.com/Bartmr/8land)
+
+Open pixel-art RPG game where players design their own lands and launch their own public games.
+
+## [n8n-nodes-data-validation](https://github.com/Bartmr/n8n-nodes-data-validation)
+
+n8n node that validates input data using JSON Schemas.
+
+## [not-me (2021)](https://github.com/Bartmr/not-me)
+
+Isomorphic and type-safe validation library.
